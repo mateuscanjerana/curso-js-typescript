@@ -1,1 +1,1 @@
-console.log('Hello, world!');
+console.log('Hello, world!'); // O console.log é uma função que exibe uma mensagem no console do navegador ou do ambiente de desenvolvimento. Neste caso, a mensagem exibida será "Hello, world!".
