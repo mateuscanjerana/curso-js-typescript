@@ -1,4 +1,4 @@
-// Atribuição via destruturação
+// Atribuição via destruturação (Arrays)
 let a = 'A';
 let b = 'B';
 let c = 'C';
